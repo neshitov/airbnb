@@ -1,4 +1,4 @@
-# airbnb
+# Los Angeles airbnb listings analysis
 ## Installations.
 Project consists of Python3 notebook that uses the following libraires:
 - standard libraries numpy, pandas, scikit-learn, scipy, matplotlib,
