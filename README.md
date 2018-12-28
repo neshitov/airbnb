@@ -9,7 +9,7 @@ Project consists of Python3 notebook that uses the following libraires:
 Airbnb is a popular service for short term rentals. To post a listing, every host goes 
 through step-by-step procedure decribing the property. This generates a good amount of 
 well-structured data, available at [http://insideairbnb.com/get-the-data.html](http://insideairbnb.com/get-the-data.html)
-The task of predicting a price of a listing based on its features seems to be complex and at the same time well suitable for machine learning. In this notebook I analyze the dataset that contains information about 40k Los Angeles airbnb listings (of December 6, 2018). The dataset contains the features describing the host, the property, the location, and the price. I try to find out what features affect the price most and predict the price (give a point prediction and interval prediction) based on the listing features.
+The task of  predicting a price of a listing based on its features seems to be complex and at the same time well suitable for machine learning. In this notebook I analyze the dataset that contains information about 40k Los Angeles airbnb listings (of December 6, 2018). The dataset contains the features describing the host, the property, the location, and the price. I try to find out what features affect the price most and predict the price (give a point prediction and interval prediction) based on the listing features.
 
 ## Files description.
 There is one notebook with analysis, two data files and three html files with visualiztion:
